@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NikitenkoPF.Sprint0.Task0.V0", "Tyuiu.NikitenkoPF.Sprint0.Task0.V0\Tyuiu.NikitenkoPF.Sprint0.Task0.V0.csproj", "{4BA6A1C9-40FC-49E0-8502-A857427B4FEB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{546F9A01-05A2-4DEF-89D0-34AB663CF00A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NikitenkoPF.Sprint0.Task1.V0", "Tyuiu.NikitenkoPF.Sprint0.Task1.V0\Tyuiu.NikitenkoPF.Sprint0.Task1.V0.csproj", "{881C9BDA-7AF7-4263-8B74-7AFF3C18273A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{4BA6A1C9-40FC-49E0-8502-A857427B4FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BA6A1C9-40FC-49E0-8502-A857427B4FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BA6A1C9-40FC-49E0-8502-A857427B4FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881C9BDA-7AF7-4263-8B74-7AFF3C18273A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881C9BDA-7AF7-4263-8B74-7AFF3C18273A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881C9BDA-7AF7-4263-8B74-7AFF3C18273A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881C9BDA-7AF7-4263-8B74-7AFF3C18273A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{881C9BDA-7AF7-4263-8B74-7AFF3C18273A} = {546F9A01-05A2-4DEF-89D0-34AB663CF00A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F5E023A5-9C0F-4227-A7E8-4791846DC4E3}
